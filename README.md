@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/youssef-wahba-572223286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
-  <a href="https://lanyard.cnrad.dev/api/1056186358848295052" target="_blank"><img src="https://lanyard.cnrad.dev/api/1056186358848295052" width=550 target="_blank"></a>
+  <a href="https://lanyard.cnrad.dev/api/1056186358848295052&hideProfile=true" target="_blank"><img src="https://lanyard.cnrad.dev/api/1056186358848295052&hideProfile=true" width=550 target="_blank"></a>
 
  <!-- <a href = "https://discord.gg/user/1056186358848295052"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
 </div>
