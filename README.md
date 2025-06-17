@@ -73,10 +73,10 @@
 <h1 align="left">Stats</h1>
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheYoussefWahba&theme=github-dark-blue" alt="GitHub Streak" /></a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheYoussefWahba&theme=github-dark-blue" alt="GitHub Streak" /></a>
+
 ###
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYoussefWahba&layout=compact" alt="GitHub Streak" width=600 /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYoussefWahba&layout=compact&theme=github-dark-blue" alt="GitHub Streak" width=600 /></a>
 </div>
 
 
