@@ -76,7 +76,6 @@
 
 ###
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheYoussefWahba&layout=compact&theme=github-dark-blue" alt="GitHub Streak" width=600 /></a>
 </div>
 
 
