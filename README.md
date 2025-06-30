@@ -9,8 +9,8 @@
 <h1 align="left" style="color: #38C2FF;">About Me</h1>
 
 <p align="left">
-  I am a 22-year-old website developer, dedicated to excelling in my field while simultaneously pursuing my education at the Higher Institute of Commercial and Computer Sciences in Ismailia.
-  
+I'm a 22-year-old web developer with a deep passion for building web applications. I have hands-on experience with JavaScript, TypeScript, React, Next.js, Node.js, and more. I'm always eager to explore new tools and frameworks to enhance my skills. Currently, I work at Clear Source Translation, where I continue to grow as a developer. I'm also the Founder of DevXorTeam, where I collaborate with my friend Omar Farghaly and a team of talented, inspiring professionals.
+
 <a href="https://github.com/TheYoussefWahba"><img src="https://komarev.com/ghpvc/?username=TheYoussefWahba"></a>
 <a href="https://github.com/TheYoussefWahba?tab=followers"><img src="https://img.shields.io/github/followers/TheYoussefWahba?label=Followers&style=social" alt="GitHub Badge"></a>
   
