@@ -72,12 +72,13 @@
 
 <h1 align="left">Stats</h1>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheYoussefWahba&theme=github-dark-blue" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheYoussefWahba&theme=github-dark-blue" alt="GitHub Streak" /></a>  -->
 
 ###
 
+<img src="https://wakatime.com/share/@02e8b3d9-c811-4305-aeff-a46c87c0a957/1fde1e36-d859-42ad-9172-434ca1293ae3.svg" alt="WakaTime Stats" />
 </div>
 
+---
 
-
-<img src="https://raw.githubusercontent.com/lucasb25/lucasb25/output/snake.svg" alt="Snake animation" width= 1000 />
+<img src="https://wakatime.com/share/@02e8b3d9-c811-4305-aeff-a46c87c0a957/2953136d-3fc4-4e4c-acb7-7328198bb77e.svg" alt="WakaTime Stats" width= 1000 />
