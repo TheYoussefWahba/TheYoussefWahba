@@ -11,8 +11,10 @@
 <p align="left">
   I am a 22-year-old website developer, dedicated to excelling in my field while simultaneously pursuing my education at the Higher Institute of Commercial and Computer Sciences in Ismailia.
   
-  <a href="https://github.com/TheYoussefWahba "><img src="https://komarev.com/ghpvc/?username=TheYoussefWahba "></a>
-  <a href="https://github.com/TheYoussefWahba?tab=followers"><img src="https://img.shields.io/github/followers/TheYoussefWahba?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/TheYoussefWahba"><img src="https://komarev.com/ghpvc/?username=TheYoussefWahba"></a>
+<a href="https://github.com/TheYoussefWahba?tab=followers"><img src="https://img.shields.io/github/followers/TheYoussefWahba?label=Followers&style=social" alt="GitHub Badge"></a>
+  
+<a href="https://wakatime.com/@youssefwahba51"><img src="https://wakatime.com/badge/user/02e8b3d9-c811-4305-aeff-a46c87c0a957.svg" alt="wakatime"></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
