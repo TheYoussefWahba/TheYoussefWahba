@@ -1,8 +1,6 @@
 <h1 align="left" style="color: #ffffff;">Welcome to My GitHub Profile!</h1> 
 <div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=500&repeat=false&color=ffffff&background=FFE60000&vCenter=true&multiline=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Wahba" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=30&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B+I'm+Youssef+Wahba" alt="Typing SVG" /></a>
 </div>
 <br>
 
