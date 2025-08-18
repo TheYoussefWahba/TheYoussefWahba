@@ -18,7 +18,7 @@ I'm a 22-year-old web developer with a deep passion for building web application
 
 <div align="left">
   <a href="https://www.youtube.com/@TheYoussefWahba" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/youssef-wahba-572223286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/youssefwahba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
   <a href="https://lanyard.cnrad.dev/api/1056186358848295052?hideProfile=true" target="_blank"><img src="https://lanyard.cnrad.dev/api/1056186358848295052?hideProfile=true" width=550 target="_blank"></a>
