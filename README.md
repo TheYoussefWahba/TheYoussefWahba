@@ -37,11 +37,4 @@ I'm a 22-year-old web developer with a deep passion for building web application
 <div align="center">
 <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheYoussefWahba&theme=github-dark-blue" alt="GitHub Streak" /></a>  -->
 
-###
-
-<img src="https://wakatime.com/share/@02e8b3d9-c811-4305-aeff-a46c87c0a957/1fde1e36-d859-42ad-9172-434ca1293ae3.svg" alt="WakaTime Stats" />
-</div>
-
----
-
 <img src="https://wakatime.com/share/@jox_8i/02ad4a60-3229-4759-a327-ce429444635a.svg" alt="WakaTime Stats" width= 1000 />
